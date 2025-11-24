@@ -1,0 +1,25 @@
+--- Voting Session Results ---
+Category: Climate Change
+Afghanistan: for
+Albania: for
+Algeria: against
+Andorra: abstain
+Angola: for
+Antigua and Barbuda: for
+Argentina: for
+Armenia: for
+Australia: for
+Austria: for
+Azerbaijan: for
+Bahamas: for
+Bahrain: for
+Bangladesh: for
+Barbados: against
+Belarus: abstain
+Belgium: against
+Belize: abstain
+Benin: for
+Bhutan: for
+Summary: For: 14, Against: 3, Abstain: 3, Total Votes: 20
+Resolution Passed.
+--------------------------------

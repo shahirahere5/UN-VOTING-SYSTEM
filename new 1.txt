@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main(){
+	int votes[3] = {0, 0, 0};  
+    int totalCountries = 30;   
+    char countries[30];      
+    char vote[10];             
+    int i;
+	}
